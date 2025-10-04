@@ -1,0 +1,398 @@
+{
+  "tasks": [
+    {
+      "title": "Studying2",
+      "category": "physical",
+      "duration": 60,
+      "id": "2"
+    },
+    {
+      "title": "Studying3",
+      "category": "mental",
+      "duration": 60,
+      "id": "3"
+    },
+    {
+      "title": "Studying5",
+      "category": "mental",
+      "duration": 60,
+      "id": "5"
+    },
+    {
+      "title": "opjipo",
+      "category": "mental",
+      "duration": 484,
+      "id": "7"
+    },
+    {
+      "title": "playing",
+      "category": "physical",
+      "duration": 5,
+      "id": "8"
+    },
+    {
+      "title": "develop skills",
+      "category": "mental",
+      "duration": 120,
+      "id": "9"
+    },
+    {
+      "title": "Sleeping",
+      "category": "physical",
+      "duration": 360,
+      "id": "10"
+    },
+    {
+      "title": "walk",
+      "category": "mine",
+      "duration": 60,
+      "id": "11"
+    }
+  ],
+  "taskCategories": [
+    {
+      "id": "1",
+      "category": "physical"
+    },
+    {
+      "id": "2",
+      "category": "mental"
+    },
+    {
+      "category": "mine",
+      "id": "3"
+    },
+    {
+      "category": "blabla",
+      "id": "4"
+    },
+    {
+      "id": "8d7c",
+      "category": "demo demo"
+    }
+  ],
+  "admins": [
+    {
+      "id": "20506481500782",
+      "password": "12345678",
+      "name": "Fouad Hammad",
+      "gander": "male",
+      "age": 22,
+      "personality": "extroverts",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "birthDay": "20-3-2000"
+    },
+    {
+      "id": "154566213518489489",
+      "name": "Ali AlMetwally",
+      "password": "12345678",
+      "gander": "male",
+      "age": "22",
+      "personality": "Judging",
+      "email": "alimetwally@gmail.com",
+      "phone": "0101884859659",
+      "birthDay": "2023-06-19"
+    }
+  ],
+  "users": [
+    {
+      "activation": "0",
+      "id": "20554848401500782",
+      "password": "12345678",
+      "name": "Sara Ahmed",
+      "gander": "female",
+      "age": 35,
+      "personality": "introverts",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "1",
+      "id": "205064015878900782",
+      "password": "12345678",
+      "name": "Merna Ahmed",
+      "gander": "female",
+      "age": 35,
+      "personality": "intuitive",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "0",
+      "id": "20506401500782",
+      "password": "12345678",
+      "name": "Fatma Ahmed",
+      "gander": "female",
+      "age": 35,
+      "personality": "introverts",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "1",
+      "id": "2050640178974500782",
+      "password": "12345678",
+      "name": "Khaled Ahmed",
+      "gander": "male",
+      "age": 35,
+      "personality": "feeling",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "1",
+      "id": "2050640177428500782",
+      "password": "12345678",
+      "name": "Fatma Ahmed",
+      "gander": "female",
+      "age": 35,
+      "personality": "feeling",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "1",
+      "id": "2050640177876500782",
+      "password": "12345678",
+      "name": "Israa Ahmed",
+      "gander": "female",
+      "age": 35,
+      "personality": "perceiving",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "1",
+      "id": "30103201600589",
+      "password": "2151668",
+      "name": "Omar Salem",
+      "gander": "male",
+      "age": 22,
+      "personality": "sensing",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "0",
+      "id": "30105150062447",
+      "password": "2151212",
+      "name": "Mahmoud Ahmed",
+      "gander": "male",
+      "age": 22,
+      "personality": "thinking",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "1",
+      "id": "30506801400376",
+      "password": "12345678",
+      "name": "Fouad Hamed",
+      "gander": "male",
+      "age": 21,
+      "personality": "extroverts",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    },
+    {
+      "activation": "0",
+      "id": "30506701900243",
+      "password": "12345678",
+      "name": "Ali Elmetwally",
+      "gander": "male",
+      "age": 23,
+      "personality": "judging",
+      "email": "user@lifeCoach.org",
+      "phone": "01012345678",
+      "weight": "80",
+      "tall": "180",
+      "birthDay": 20,
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "achievement": 60,
+      "completedTasks": 600,
+      "ignoredTasks": 400,
+      "favTask": "Sports"
+    }
+  ],
+  "lifeStage": {
+    "male": {
+      "first": 324,
+      "second": 276,
+      "third": 192,
+      "fourth": 84,
+      "fifth": 31
+    },
+    "female": {
+      "first": 305,
+      "second": 216,
+      "third": 131,
+      "fourth": 42,
+      "fifth": 14
+    }
+  },
+  "personalities": [
+    {
+      "id": "1",
+      "name": "Extroverts",
+      "count": 412,
+      "percent": 12,
+      "color": "rgb(13, 110, 253)"
+    },
+    {
+      "id": "2",
+      "name": "Introverts",
+      "count": 376,
+      "percent": 11,
+      "color": "rgb(244, 17, 39)"
+    },
+    {
+      "id": "3",
+      "name": "Sensing",
+      "count": 613,
+      "percent": 18,
+      "color": "rgb(255, 193, 7)"
+    },
+    {
+      "id": "4",
+      "name": "Intuitive",
+      "count": 622,
+      "percent": 19,
+      "color": "rgb(13, 202, 240)"
+    },
+    {
+      "id": "5",
+      "name": "Thinking",
+      "count": 482,
+      "percent": 14,
+      "color": "rgb(23, 160, 14)"
+    },
+    {
+      "id": "6",
+      "name": "Feeling",
+      "count": 351,
+      "percent": 10,
+      "color": "rgb(142, 68, 173)"
+    },
+    {
+      "id": "7",
+      "name": "Judging",
+      "count": 230,
+      "percent": 7,
+      "color": "rgb(255, 121, 63)"
+    },
+    {
+      "id": "8",
+      "name": "Perceiving",
+      "count": 326,
+      "percent": 9,
+      "color": "rgb(52, 73, 94)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "2",
+      "content": "This is an example of a random question to define the personality?"
+    },
+    {
+      "id": "3",
+      "content": "This is an example of a random question to define the personality?"
+    },
+    {
+      "id": "6",
+      "content": "This is an example of a random question to define the personality?"
+    },
+    {
+      "content": "bla bla Omar Salem Youssef Mahmoud Hassan Al-Jaafary??",
+      "id": "7"
+    },
+    {
+      "id": "93e2",
+      "content": "demo"
+    },
+    {
+      "id": "af3e",
+      "content": "fsd"
+    }
+  ]
+}

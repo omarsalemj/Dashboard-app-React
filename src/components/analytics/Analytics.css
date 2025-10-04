@@ -1,0 +1,20 @@
+.container{
+    padding: 0;
+}
+
+.row{
+    margin: auto;
+}
+
+.card{
+    box-shadow: 0px 0px 10px rgb(203, 203, 203);
+}
+
+
+.icon{
+    color: red;
+    font-size: 40px;
+    width: 30%;
+    font-weight: bold;
+}
+
